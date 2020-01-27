@@ -172,7 +172,7 @@ class Admin extends React.Component {
           activeColor={this.state.activeColor}
           logo={{
             outterLink: "https://www.creative-tim.com/",
-            text: "Creative Tim",
+            text: "Assignment#2",
             imgSrc: logo
           }}
           closeSidebar={this.closeSidebar}
